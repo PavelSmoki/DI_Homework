@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d08c8dc1a008d6745adb61594a96ab67, type: 3}
+  m_Name: Slug
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Slug
+  <Prefab>k__BackingField: {fileID: 786133776580370687, guid: ad8a3cd4a4355c54fad8b7b751b21cac, type: 3}
+  <Speed>k__BackingField: 3
+  <ViewRange>k__BackingField: 8
+  <Particle>k__BackingField: {fileID: 4849892979499865509, guid: 4ce6328bdd4e45d488d1542a998a1faa, type: 3}
